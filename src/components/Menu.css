@@ -1,0 +1,36 @@
+.menu{
+    font-size: 20px;
+font-family: fantasy;
+    box-shadow: #1B2A49 3pc 99px 99px;
+    border-radius: 40px 40px 40px 40px;
+
+  
+}
+.menu .item{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    backdrop-filter: blur(1px);
+   
+ 
+
+}
+
+
+li:hover{
+    
+    font-size: 15px;
+    transition: 1s ease;
+    color: saddlebrown;
+    cursor: pointer;
+}
+h1{
+    padding-top: 50px;
+}
+h2{
+    padding-bottom: 20px;
+}
+h3{
+    padding-bottom: 15px;
+    font-size: 30px;
+}

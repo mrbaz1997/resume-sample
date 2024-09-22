@@ -1,0 +1,74 @@
+{
+    "title": "Hello World my name is ",
+    "subtitle": "development",
+    "Link": {
+        "telegram": "https://t.me/mr_baz",
+        "github": "https://github.com/mrbaz1997",
+        "LinkedIn": "https://www.linkedin.com/in/idris-baz-358388102",
+        "instagram": "https://www.instagram.com/idris_baz",
+        "Gmail":"mr.baz1997@gmail.com"
+    },
+    "data": [
+        {
+            "id":1,
+            "logo": "images/Network.png",  
+            "title":"C#"
+
+        },
+        {
+            "id":2,
+            "logo": "",
+            "title":"Unity"
+
+        },
+        {
+            "id":3,
+            "logo": "",
+            "title":"OOP"
+        },
+        {
+            "id":4,
+            "logo": "",
+            "title":"SOLID"
+        },
+        {
+            "id":5,
+            "logo": "",
+            "title":"Photon"
+        },
+        {
+            "id":6,
+            "logo": "",
+            "title":"Design Architecture"
+        },
+        {
+            "id":7,
+            "logo": "",
+            "title":"Design Patterns"
+        },
+        {
+            "id":8,
+            "logo": "",
+            "title":"SDK Integrate"
+        },
+        {
+            "id":9,
+            "logo": "",
+            "title":"Memory Management"
+        },{
+            "id":10,
+            "logo": "",
+            "title":"Concurrent Programming"
+        },{
+            "id":11,
+            "logo": "",
+            "title":"REST"
+        },{
+            "id":12,
+            "logo": "",
+            "title":"Git"
+        }
+
+    ]
+
+}

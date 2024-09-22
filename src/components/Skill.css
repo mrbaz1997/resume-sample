@@ -1,0 +1,29 @@
+.singleSkill{
+    border: 0.5px solid #1B2A49;
+    border-radius: 50% 10% 50% 10% / 10% 50% 10% 50%;
+    width: 20%;
+    height: 150px;
+    padding: 10px;
+    margin: 10px;
+    
+    
+}
+
+.skill{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    font-size: 15px;
+  
+}
+
+.singleSkill:hover{
+    font-size: 20px;
+    transition: 1s ease;
+    transform: skew(10deg,2deg);
+    backdrop-filter: blur(1000px);
+}
+.image{
+    width: auto ;
+    height: 100px ;
+}
